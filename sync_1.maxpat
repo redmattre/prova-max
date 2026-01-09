@@ -33,17 +33,6 @@
                     "parameter_enable": 0,
                     "patching_rect": [ 502.0, 276.0, 22.0, 140.0 ]
                 }
-            },
-            {
-                "box": {
-                    "id": "obj-1",
-                    "maxclass": "newobj",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "signal" ],
-                    "patching_rect": [ 405.0, 202.0, 38.0, 22.0 ],
-                    "text": "pink~"
-                }
             }
         ],
         "lines": [
